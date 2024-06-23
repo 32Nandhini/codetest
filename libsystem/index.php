@@ -7,6 +7,9 @@
 	}
 ?>
 <?php include 'includes/header.php'; ?>
+<head>
+	<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">     
+</head>
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
 

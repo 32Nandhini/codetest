@@ -5,10 +5,13 @@
   	}
 ?>
 <?php include 'includes/header.php'; ?>
+<head>
+	<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">     
+</head>
 <body class="hold-transition login-page">
 <div class="login-box">
   	<div class="login-logo">
-  		<b>Library System in PHP</b>
+  		<b>Student Library</b>
   	</div>
   
   	<div class="login-box-body">

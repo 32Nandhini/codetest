@@ -1,5 +1,8 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
+<head>
+	<link rel="shortcut icon" href="../images/openedBook.png" type="image/x-icon">     
+</head>
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
 

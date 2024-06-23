@@ -1,4 +1,3 @@
-<!-- Add -->
 <div class="modal fade" id="profile">
     <div class="modal-dialog">
         <div class="modal-content">

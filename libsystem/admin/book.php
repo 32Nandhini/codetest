@@ -9,15 +9,16 @@
 
 ?>
 <?php include 'includes/header.php'; ?>
+<head>
+	<link rel="shortcut icon" href="../images/openedBook.png" type="image/x-icon">     
+</head>
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
 
   <?php include 'includes/navbar.php'; ?>
   <?php include 'includes/menubar.php'; ?>
 
-  <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
-    <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
         Book List
@@ -28,7 +29,6 @@
         <li class="active">Book List</li>
       </ol>
     </section>
-    <!-- Main content -->
     <section class="content">
       <?php
         if(isset($_SESSION['error'])){
