@@ -13,6 +13,9 @@
 	}
 
 ?>
+<head>
+	<link rel="shortcut icon" href="./images/openedBook.png" type="image/x-icon">
+</head>
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
